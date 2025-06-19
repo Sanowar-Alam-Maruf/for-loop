@@ -15,3 +15,12 @@ if (nambar02%2==0) {
     console.log('Thahole odd hobe');
     
 }
+
+var nambar02=47;
+if (nambar02%2==!0) {
+    console.log('Thahole even hobe');
+    
+} else {
+    console.log('Thahole odd hobe');
+    
+}
